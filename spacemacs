@@ -1,4 +1,5 @@
-s file is loaded by Spacemacs at startup.
+;; -*- mode: emacs-lisp -*-
+;; This file is loaded by Spacemacs at startup.
 ;; It must be stored in your home directory.
 
 (defun dotspacemacs/layers ()
@@ -178,4 +179,3 @@ layers configuration."
 )
 ;; Do not write anything past this comment. This is where Emacs will
 ;; auto-generate custom variable definitions.
-
